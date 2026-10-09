@@ -1,0 +1,10 @@
+# ESP32 SmartTrash — Library Dependencies
+# Install via Arduino IDE Library Manager or arduino-cli
+
+ESP32Servo        >= 0.13.0
+ArduinoJson       >= 7.0.0
+HTTPClient        (built-in ESP32 core)
+WiFi              (built-in ESP32 core)
+
+# Board: esp32 by Espressif Systems >= 2.0.0
+# Board Manager URL: https://dl.espressif.com/dl/package_esp32_index.json
